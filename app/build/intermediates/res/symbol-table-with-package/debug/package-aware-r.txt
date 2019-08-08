@@ -971,8 +971,9 @@ dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 dimen text_margin_large
-dimen text_margin_small
 dimen text_margin_standard
+dimen text_price
+dimen title_large
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -1175,6 +1176,7 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btnImage
 id btn_holder
 id buttonPanel
 id button_continue
@@ -1255,7 +1257,7 @@ id icon_group
 id icon_only
 id ifRoom
 id image
-id imageView
+id imageDeal
 id info
 id insert_menu
 id invisible
@@ -1461,7 +1463,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_insert
+layout activity_deal
 layout activity_list
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

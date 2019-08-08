@@ -12,12 +12,12 @@
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_check_email_layout.xml.flat",
-        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\96709c563e7c46146caf0506db2aa9dd\\jetified-firebase-ui-auth-4.3.1\\res\\layout\\fui_check_email_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\17f38ad01d5b42c4b072031f4c95ee9a\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_check_email_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\96709c563e7c46146caf0506db2aa9dd\\jetified-firebase-ui-auth-4.3.1\\res\\layout\\fui_check_email_layout.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
@@ -40,16 +40,16 @@
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
-        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
-        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_email_link_cross_device_linking.xml.flat",
@@ -120,12 +120,12 @@
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
-        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e94db04a654a038bde2f492294306627\\material-1.0.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
@@ -150,6 +150,10 @@
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_deal.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\src\\main\\res\\layout\\activity_deal.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -442,10 +446,6 @@
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_idp_button_google.xml.flat",
         "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\96709c563e7c46146caf0506db2aa9dd\\jetified-firebase-ui-auth-4.3.1\\res\\layout\\fui_idp_button_google.xml"
-    },
-    {
-        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_insert.xml.flat",
-        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\src\\main\\res\\layout\\activity_insert.xml"
     },
     {
         "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\res\\merged\\debug\\layout_fui_idp_button_twitter.xml.flat",
