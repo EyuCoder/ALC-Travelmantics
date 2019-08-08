@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">470902558040-p5umm3vva3gs846gup1lg8k91sbr5osk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://travelmantics-8c168.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">470902558040</string>
+    <string name="google_api_key" translatable="false">AIzaSyCktDB-QsWdXUs8HjETZcBz1vjzqS6KGHI</string>
+    <string name="google_app_id" translatable="false">1:470902558040:android:2e799b18780a68d1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCktDB-QsWdXUs8HjETZcBz1vjzqS6KGHI</string>
+    <string name="google_storage_bucket" translatable="false">travelmantics-8c168.appspot.com</string>
+    <string name="project_id" translatable="false">travelmantics-8c168</string>
+</resources>

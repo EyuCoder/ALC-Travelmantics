@@ -1,0 +1,743 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:2:1-109:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e94db04a654a038bde2f492294306627\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\04eefee040e61fbb50d8fcaa8ee0d0d1\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\ad81921259784a0e5913533a7555cafc\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\74af17494fb263aa33229d000b6a181b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c70adedd4a3c51327a70604b22ab63c7\firebase-core-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:17:1-42:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\95ecaa0c3f9d89b728b65ee5ead8dc9c\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3e6713deb7cd06652ac919c383187f26\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\abf45676e349e344e5365f073d536197\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a88f23480e9919279232d73befe3ff51\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9d8ffc4a107f916a3c4c6b48d7fd9e6c\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a8ff2df835be3148a09f9a2ea63bce83\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5c2b642b5b5f131bf9a89054d8c8fb48\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\470d81e70f1133234997a28ca730fc26\firebase-analytics-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\189dccd1bd31a999f08ed6003144eb59\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5906823aff8e3ff9a9ee00ed88ba94b4\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3ce6a4b3cfad334197e59542a7d6e748\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\284cfeec00ee5d012c2c59dfc954da2b\play-services-measurement-base-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1b60d9ba8e2444c941889f6a08eeab45\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8a030a10c048f4ef8cc99547e149b945\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\873f3226ab6c6bae44f5c50deb2592a5\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3cc0468b907a2bd44b4e3c09f4d7d178\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5eda9a9148b2ae4a8f849cef73203582\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dad386c2c6e550b9a85974b1082efa56\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\914bc577d3c220ae6d3e007ac78a2ca7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0f016b149b66e55eabea18b579766355\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1cc957fae009310621b485abf2eda0a9\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6ab34a90eee2ae70a32a221cd8e407b\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b71ad84d228a6c3a1a69a92c04dadbd1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\17f38ad01d5b42c4b072031f4c95ee9a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\40eb38196eccacb36589f5fcacf93d5a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d18daa32cd569063bceb907eecb7252a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8465d5929a81af55f441af3d1393ec9b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\017ccdea7e9238ecb40231086cab56b8\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\f8205de8756ee04a9d5a91a465e7e67b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9557322e03587d9fbeeb42064d08c573\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c2c20399ba0ffb1c521ba0091f9c3a5a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7c0cb85844c36464280f9b3ef59737d5\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7a26e5fd0e95362bbe32f6c16f4999a1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\15725ac1ca2db3bbbe962e46284a1438\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\92ab69e3eca7b1aca91e883598efb82b\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\19837eb85a3ac7d1afb3316d055ccc2e\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a7d3925a92d24b517a73bc6747d82fb1\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\897bb82cc3159662791f437430b06907\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7572f746d714e2648eb47f331c4d5162\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6fe85e45a04c81f03da4155727f954a5\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6576f19397b1ff9bcabfbce02f3c368\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d890145146dcf8c456d325e9f6140594\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b9b57f4fb03ac1eb26058a0790286a46\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d3d5aba5aa952d4fc986100d59ba51c3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\182aaeb127185d2f7dbe7893eeff947e\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:15:5-107:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:15:5-107:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e94db04a654a038bde2f492294306627\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e94db04a654a038bde2f492294306627\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\74af17494fb263aa33229d000b6a181b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\74af17494fb263aa33229d000b6a181b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c70adedd4a3c51327a70604b22ab63c7\firebase-core-17.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c70adedd4a3c51327a70604b22ab63c7\firebase-core-17.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\abf45676e349e344e5365f073d536197\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\abf45676e349e344e5365f073d536197\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9d8ffc4a107f916a3c4c6b48d7fd9e6c\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9d8ffc4a107f916a3c4c6b48d7fd9e6c\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\470d81e70f1133234997a28ca730fc26\firebase-analytics-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\470d81e70f1133234997a28ca730fc26\firebase-analytics-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\189dccd1bd31a999f08ed6003144eb59\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\189dccd1bd31a999f08ed6003144eb59\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5906823aff8e3ff9a9ee00ed88ba94b4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5906823aff8e3ff9a9ee00ed88ba94b4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3ce6a4b3cfad334197e59542a7d6e748\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3ce6a4b3cfad334197e59542a7d6e748\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\284cfeec00ee5d012c2c59dfc954da2b\play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\284cfeec00ee5d012c2c59dfc954da2b\play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1b60d9ba8e2444c941889f6a08eeab45\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1b60d9ba8e2444c941889f6a08eeab45\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8a030a10c048f4ef8cc99547e149b945\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8a030a10c048f4ef8cc99547e149b945\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\873f3226ab6c6bae44f5c50deb2592a5\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\873f3226ab6c6bae44f5c50deb2592a5\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7c0cb85844c36464280f9b3ef59737d5\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7c0cb85844c36464280f9b3ef59737d5\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.codexo.travelmantics.ListActivity
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:13:13-17:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:14:13-65
+	android:name
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:14:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:16:13-73
+	android:name
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:16:23-70
+activity#com.codexo.travelmantics.DealActivity
+ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e94db04a654a038bde2f492294306627\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e94db04a654a038bde2f492294306627\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\04eefee040e61fbb50d8fcaa8ee0d0d1\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\04eefee040e61fbb50d8fcaa8ee0d0d1\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\ad81921259784a0e5913533a7555cafc\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\ad81921259784a0e5913533a7555cafc\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\74af17494fb263aa33229d000b6a181b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\74af17494fb263aa33229d000b6a181b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c70adedd4a3c51327a70604b22ab63c7\firebase-core-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c70adedd4a3c51327a70604b22ab63c7\firebase-core-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\95ecaa0c3f9d89b728b65ee5ead8dc9c\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\95ecaa0c3f9d89b728b65ee5ead8dc9c\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3e6713deb7cd06652ac919c383187f26\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3e6713deb7cd06652ac919c383187f26\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\abf45676e349e344e5365f073d536197\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\abf45676e349e344e5365f073d536197\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a88f23480e9919279232d73befe3ff51\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a88f23480e9919279232d73befe3ff51\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9d8ffc4a107f916a3c4c6b48d7fd9e6c\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9d8ffc4a107f916a3c4c6b48d7fd9e6c\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a8ff2df835be3148a09f9a2ea63bce83\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a8ff2df835be3148a09f9a2ea63bce83\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5c2b642b5b5f131bf9a89054d8c8fb48\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5c2b642b5b5f131bf9a89054d8c8fb48\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\470d81e70f1133234997a28ca730fc26\firebase-analytics-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\470d81e70f1133234997a28ca730fc26\firebase-analytics-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\189dccd1bd31a999f08ed6003144eb59\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\189dccd1bd31a999f08ed6003144eb59\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5906823aff8e3ff9a9ee00ed88ba94b4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5906823aff8e3ff9a9ee00ed88ba94b4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3ce6a4b3cfad334197e59542a7d6e748\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3ce6a4b3cfad334197e59542a7d6e748\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\284cfeec00ee5d012c2c59dfc954da2b\play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\284cfeec00ee5d012c2c59dfc954da2b\play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1b60d9ba8e2444c941889f6a08eeab45\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1b60d9ba8e2444c941889f6a08eeab45\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8a030a10c048f4ef8cc99547e149b945\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8a030a10c048f4ef8cc99547e149b945\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\873f3226ab6c6bae44f5c50deb2592a5\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\873f3226ab6c6bae44f5c50deb2592a5\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3cc0468b907a2bd44b4e3c09f4d7d178\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\3cc0468b907a2bd44b4e3c09f4d7d178\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5eda9a9148b2ae4a8f849cef73203582\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\5eda9a9148b2ae4a8f849cef73203582\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dad386c2c6e550b9a85974b1082efa56\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dad386c2c6e550b9a85974b1082efa56\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\914bc577d3c220ae6d3e007ac78a2ca7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\914bc577d3c220ae6d3e007ac78a2ca7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0f016b149b66e55eabea18b579766355\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0f016b149b66e55eabea18b579766355\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1cc957fae009310621b485abf2eda0a9\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\1cc957fae009310621b485abf2eda0a9\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6ab34a90eee2ae70a32a221cd8e407b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6ab34a90eee2ae70a32a221cd8e407b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b71ad84d228a6c3a1a69a92c04dadbd1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b71ad84d228a6c3a1a69a92c04dadbd1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\17f38ad01d5b42c4b072031f4c95ee9a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\17f38ad01d5b42c4b072031f4c95ee9a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\40eb38196eccacb36589f5fcacf93d5a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\40eb38196eccacb36589f5fcacf93d5a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d18daa32cd569063bceb907eecb7252a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d18daa32cd569063bceb907eecb7252a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8465d5929a81af55f441af3d1393ec9b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\8465d5929a81af55f441af3d1393ec9b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\017ccdea7e9238ecb40231086cab56b8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\017ccdea7e9238ecb40231086cab56b8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\f8205de8756ee04a9d5a91a465e7e67b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\f8205de8756ee04a9d5a91a465e7e67b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9557322e03587d9fbeeb42064d08c573\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\9557322e03587d9fbeeb42064d08c573\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c2c20399ba0ffb1c521ba0091f9c3a5a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c2c20399ba0ffb1c521ba0091f9c3a5a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6c4966afb09d34f8ef2b6e71e205fb4b\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7c0cb85844c36464280f9b3ef59737d5\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7c0cb85844c36464280f9b3ef59737d5\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7a26e5fd0e95362bbe32f6c16f4999a1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7a26e5fd0e95362bbe32f6c16f4999a1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\15725ac1ca2db3bbbe962e46284a1438\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\15725ac1ca2db3bbbe962e46284a1438\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\92ab69e3eca7b1aca91e883598efb82b\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\92ab69e3eca7b1aca91e883598efb82b\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\19837eb85a3ac7d1afb3316d055ccc2e\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\19837eb85a3ac7d1afb3316d055ccc2e\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a7d3925a92d24b517a73bc6747d82fb1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\a7d3925a92d24b517a73bc6747d82fb1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\897bb82cc3159662791f437430b06907\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\897bb82cc3159662791f437430b06907\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7572f746d714e2648eb47f331c4d5162\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\7572f746d714e2648eb47f331c4d5162\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6fe85e45a04c81f03da4155727f954a5\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\6fe85e45a04c81f03da4155727f954a5\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6576f19397b1ff9bcabfbce02f3c368\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\c6576f19397b1ff9bcabfbce02f3c368\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d890145146dcf8c456d325e9f6140594\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d890145146dcf8c456d325e9f6140594\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b9b57f4fb03ac1eb26058a0790286a46\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\b9b57f4fb03ac1eb26058a0790286a46\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d3d5aba5aa952d4fc986100d59ba51c3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d3d5aba5aa952d4fc986100d59ba51c3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\182aaeb127185d2f7dbe7893eeff947e\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\182aaeb127185d2f7dbe7893eeff947e\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VENOM\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:13:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\939e6659f13c3e4571b4d6561469d5b1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:41:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:39:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:43:9-47:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:46:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:47:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:48:9-52:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:51:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:52:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:49:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:56:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:54:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:58:9-62:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:61:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:59:13-83
+activity#com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:63:9-67:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:66:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:67:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:64:13-84
+activity#com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:68:9-73:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:71:13-29
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:73:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:72:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:69:13-82
+activity#com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:77:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:75:13-88
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:79:9-82:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:82:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:80:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:83:9-87:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:86:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:85:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:84:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:88:9-100:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:90:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:89:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:92:13-99:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:93:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:95:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:95:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:96:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:98:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:98:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:102:9-106:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:104:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:105:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:106:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\96709c563e7c46146caf0506db2aa9dd\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:103:13-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\101f7a8ee965b95d9b4fcf7b579ae68d\firebase-database-18.0.1\AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e6f764900f825515b203f40bc951246e\firebase-auth-18.1.0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:18.1.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\d7eeff3e7007bdc18c1b57e5e50102be\firebase-storage-18.1.1\AndroidManifest.xml:34:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\726c852b04961b5ae659fc560cb16c89\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\0a8ba6f5b731aa49a563347e6c702f4c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\e979d5d4f8c9632b2753b709cedf18d6\play-services-measurement-api-17.0.0\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\948f13f52b73e861625c4ac6d0b464cb\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\fd333c71bccd53707aa5283668d518e7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\53589a4fc5b951c6beba1584a892965a\firebase-common-18.0.0\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\cf279436d15b426475d807b6dac5784a\play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\2c6cd96f29fdbe0250d5451b61126599\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\396f15d1be91d2d4a80a08072db6105f\play-services-measurement-17.0.0\AndroidManifest.xml:49:13-87
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\VENOM\.gradle\caches\transforms-2\files-2.1\dc53342ab3b7d1f29dcfbb76ebd97a58\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79

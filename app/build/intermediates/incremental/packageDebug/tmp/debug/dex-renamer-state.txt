@@ -1,0 +1,7 @@
+#Thu Aug 08 08:53:42 EAT 2019
+base.0=C\:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\VENOM\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
