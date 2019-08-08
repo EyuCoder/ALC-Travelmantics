@@ -18,25 +18,23 @@ import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.ArrayList;
 
-public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder> {
-
+public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder>{
     ArrayList<TravelDeal> deals;
     private FirebaseDatabase mFirebaseDatabase;
     private DatabaseReference mDatabaseReference;
     private ChildEventListener mChildListener;
 
     public DealAdapter() {
-        FirebaseUtil.openFbReference("traveldeals");
+        //FirebaseUtil.openFbReference("traveldeals");
         mFirebaseDatabase = FirebaseUtil.mFirebaseDatabase;
         mDatabaseReference = FirebaseUtil.mDatabaseReference;
-        deals = FirebaseUtil.mDeals;
-
+        this.deals = FirebaseUtil.mDeals;
         mChildListener = new ChildEventListener() {
             @Override
             public void onChildAdded(DataSnapshot dataSnapshot, String s) {
                 TravelDeal td = dataSnapshot.getValue(TravelDeal.class);
+                Log.d("Deal: ", td.getTitle());
                 td.setId(dataSnapshot.getKey());
-                Log.e("Deal: ", td.getTitle());
                 deals.add(td);
                 notifyItemInserted(deals.size()-1);
             }
@@ -62,11 +60,10 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
             }
         };
         mDatabaseReference.addChildEventListener(mChildListener);
-
     }
+
     @Override
     public DealViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-
         Context context = parent.getContext();
         View itemView = LayoutInflater.from(context)
                 .inflate(R.layout.rv_row, parent, false);
@@ -75,20 +72,18 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
     }
 
     @Override
-    public void onBindViewHolder(DealAdapter.DealViewHolder holder, int position) {
+    public void onBindViewHolder(DealViewHolder holder, int position) {
         TravelDeal deal = deals.get(position);
         holder.bind(deal);
     }
 
     @Override
     public int getItemCount() {
-        if (deals == null) {
-            return 0;
-        }
         return deals.size();
     }
 
-    public class DealViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
+    public class DealViewHolder extends RecyclerView.ViewHolder
+            implements View.OnClickListener {
         TextView tvTitle;
         TextView tvDescription;
         TextView tvPrice;
@@ -101,7 +96,7 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
             itemView.setOnClickListener(this);
         }
 
-        public void bind (TravelDeal deal) {
+        public void bind(TravelDeal deal) {
             tvTitle.setText(deal.getTitle());
             tvDescription.setText(deal.getDescription());
             tvPrice.setText(deal.getPrice());
@@ -117,6 +112,4 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
             view.getContext().startActivity(intent);
         }
     }
-
-
 }

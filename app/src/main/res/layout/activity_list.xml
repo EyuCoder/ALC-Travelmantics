@@ -8,21 +8,11 @@
     tools:context=".ListActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/RVDeals"
+        android:id="@+id/rvDeals"
         android:layout_width="368dp"
         android:layout_height="495dp"
         android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-    <TextView
-        android:id="@+id/tvDeals"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:text=""
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginLeft="8dp" />

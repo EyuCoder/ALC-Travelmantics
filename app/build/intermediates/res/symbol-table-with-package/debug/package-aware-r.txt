@@ -1135,7 +1135,6 @@ id ALT
 id CTRL
 id FUNCTION
 id META
-id RVDeals
 id SHIFT
 id SYM
 id action0
@@ -1272,6 +1271,7 @@ id line3
 id listMode
 id list_item
 id logo
+id logout_menu
 id main_tos_and_pp
 id masked
 id media_actions
@@ -1312,6 +1312,7 @@ id right
 id right_icon
 id right_side
 id root
+id rvDeals
 id save_image_matrix
 id save_menu
 id save_non_transition_alpha
@@ -1391,7 +1392,6 @@ id transition_scene_layoutid_cache
 id transition_transform
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
-id tvDeals
 id tvDescription
 id tvPrice
 id tvTitle
@@ -1461,7 +1461,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_deal
+layout activity_insert
 layout activity_list
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -1592,7 +1592,7 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string default_web_client_id
-string delete_menu
+string delete_deal
 string description_hint
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -1698,7 +1698,6 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
-string insert_new_deal
 string mtrl_chip_close_icon_content_description
 string password_toggle_content_description
 string path_password_eye
